@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.bookcardbox{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bookcard-l img{
+    height: 200px;
+}
+
+.bookcard-r ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bookcard-r li{
+    list-style: none;
+}
+.bookcard-r{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+
+.bookcard-r h3{
+    width: 250px;
+}

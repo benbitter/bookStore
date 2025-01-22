@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.select{
+    margin: 10px;
+    margin-left: 0;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #000; /* Change arrow color */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: #f00; /* Change arrow color on hover */
+}
+
+.mySwiper{
+    margin: 50px;
+}
