@@ -6,7 +6,7 @@ const Banner = () => {
         <div className="banner-container">
             <div className="banner-l">
                 <h2>
-                    New Releases this week
+                    Releases this week
                 </h2>
                 <p>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
